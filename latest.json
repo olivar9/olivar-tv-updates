@@ -2,7 +2,7 @@
   "packageName": "com.michal.tvlauncher",
   "versionCode": 4,
   "versionName": "1.3",
-  "updateAvailable": true,
+  "updateAvailable": false,
   "mandatory": false,
   "releaseNotes": "Olivar TV Universal 1.3: miglioramenti e scorrimento delle Impostazioni.",
   "apkUrl": "https://raw.githubusercontent.com/olivar9/olivar-tv-updates/main/olivar-tv-v1.3.apk",
