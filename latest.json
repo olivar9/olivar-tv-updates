@@ -1,10 +1,10 @@
 {
   "packageName": "com.michal.tvlauncher",
-  "versionCode": 5,
-  "versionName": "1.4 Beta",
+  "versionCode": 7,
+  "versionName": "1.5.3",
   "updateAvailable": true,
   "mandatory": false,
-  "releaseNotes": "Olivar TV 1.4 Beta: controllo automatico aggiornamenti all'avvio.",
-  "apkUrl": "https://raw.githubusercontent.com/olivar9/olivar-tv-updates/main/olivar-tv-v1.4-beta.apk",
-  "sha256": "1ba7f516bf84b3038a753a13dc7fcab847835f55be60ea3a36a503a561462c09"
+  "releaseNotes": "Olivar TV 1.5.3: Home ridisegnata con stile premium minimalista, palette verde oliva e antracite, preferiti a scorrimento orizzontale e orologio aggiornato.",
+  "apkUrl": "https://raw.githubusercontent.com/olivar9/olivar-tv-updates/main/olivar-tv-v1.5.3.apk",
+  "sha256": "962221ea81fbe2864c75c502ad68dd58a04b1dd7a0e84210356c131e2cda3e1b"
 }
